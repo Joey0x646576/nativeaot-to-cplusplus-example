@@ -1,0 +1,4 @@
+*.h linguist-detectable
+*.cpp linguist-detectable
+
+*.cs -linguist-detectable
